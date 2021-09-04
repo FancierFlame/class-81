@@ -1,0 +1,22 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url(bg1.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+#canvas_html{
+	border-width: 10px;
+	border-color: grey;
+	border-style: ridge;
+	background-color: white;
+}
+
+span{
+	font-size: 40px;
+}
